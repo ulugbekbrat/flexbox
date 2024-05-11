@@ -1,0 +1,81 @@
+
+.box{
+    width: 900px;
+    height: 900px;
+    background-color: rgb(23, 5, 74);
+    margin: 0 auto;
+}
+h1{
+
+    color: white;
+}
+.textlar{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.rasmlar{
+    display: flex;
+    justify-content: space-around;
+     
+}
+.sasa{
+    background-color: red;
+    width: 111px;border-radius: 17px;
+    text-align: center;
+
+}
+.button{
+    width: 200px;
+    height: 100px;
+    border-radius: 20px;
+background-color: black;
+margin: 0 auto;
+    align-items: center;
+}
+h2{
+    color: white;
+    text-align: center;
+    
+}
+.ccc{
+    background-color: red;
+    width: 300px;
+    height: 150px;
+    border-radius: 30px;
+    padding-top: 50px;
+}
+.cca{
+    background-color: red;
+    width: 300px;
+        height: 150px;
+        justify-content: end;
+        border-radius: 30px;
+        padding-top: 50px;
+}
+.aaa{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    
+    
+
+}
+.susu{
+    width: 250px;
+    height: 100px;
+background-color: greenyellow;
+margin: 0 auto;
+
+}
+.mama{
+background-color: greenyellow;
+margin: 0 auto;
+width: 250px;
+    height: 100px;
+}
+h1{
+    text-align: center;
+    color: black;
+}
